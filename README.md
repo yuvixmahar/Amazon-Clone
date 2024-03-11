@@ -1,1 +1,3 @@
-# Amazon-Clone
+# amazon-clone
+<br>
+Author - Yuvraj Singh
